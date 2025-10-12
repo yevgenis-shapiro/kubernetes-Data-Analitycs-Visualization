@@ -1,5 +1,4 @@
-<img width="1432" height="924" alt="image" src="https://github.com/user-attachments/assets/36982922-51e9-4a7d-8e28-7bbf2ef9828b" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1a77a6dc-62b0-499d-b054-2f01ab3b0a8e" />
 
 
 ###  Data Analitycs and Visualization  | Kubernetes ☸️
@@ -7,7 +6,8 @@ Data-analytics-visualization refers to the process where data analytics uncovers
 
 
 #### 🧱 Architecture Components :
-   - **MinIO (S3 Storage):**: object storage,Used for storing raw data files.
+   - **Longhorn (StorageClass):**: distributed block storage.
+   - **MinIO (S3 Object Storage):**: object storage,Used for storing raw data files.
    - **Apache Druid**: is a high performance real-time analytics database.
    - **SuperSet**: is a modern data exploration and data visualization platform.
 
