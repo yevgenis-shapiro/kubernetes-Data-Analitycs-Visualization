@@ -1,4 +1,4 @@
-<img width="1536" height="994" alt="image" src="https://github.com/user-attachments/assets/e5e6cfb5-9681-4f37-9685-bc78b4686b67" />
+<img width="1536" height="994" alt="image" src="https://github.com/user-attachments/assets/b9ef0c5a-73e6-4afd-a66d-435e63ed6bca" />
 
 ###  Data Analitycs and Visualization  | Kubernetes ☸️
 Data-analytics-visualization refers to the process where data analytics uncovers insights from datasets, and data visualization communicates those insights through graphical means like charts, graphs, and maps to help people understand trends, patterns, and outliers quickly. Together, data analytics and visualization empower organizations to make better-informed, data-driven decisions by transforming complex raw data into a strategic, accessible asset.
