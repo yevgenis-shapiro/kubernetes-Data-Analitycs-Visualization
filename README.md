@@ -1,5 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/333185e6-13d9-4233-89a1-b77fc8bb0736" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/00ae21f7-cf38-479f-b228-06fc95d15733" />
 
 
 ###  Data Analitycs and Visualization  | Kubernetes ☸️
